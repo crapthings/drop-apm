@@ -3,8 +3,7 @@
 this repo work with
 https://github.com/vladgolubev/kadira
 
-kadira can be slow after days
-run this to drop old data
+> kadira can be slow after days, run this to drop old data
 
 ### HOW
 
