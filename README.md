@@ -16,6 +16,8 @@ pm2 start index.js --name='drop-apm'
 
 #### default env
 
+```javascript
 process.env.MONGO_URL = 'mongodb://localhost:27018'
 process.env.DB = 'apm'
 process.env.PORT = 3000
+```
